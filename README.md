@@ -1,2 +1,2 @@
-# Come-andoComJavaScript
+# ComecandoComJavaScript
 Primeiro projeto em JavaScript
